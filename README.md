@@ -1,0 +1,1 @@
+Test hosting a client side Blazor via Github Page
